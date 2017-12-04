@@ -1,0 +1,149 @@
+html { 
+  background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(http://clipart-library.com/images/Aibre8RBT.jpg)no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+body { 
+
+margin: 50px;
+height: 100px;
+  font-family:      Georgia, "Times New Roman", Times, serif;
+  font-size:        small;
+  margin:           0px;
+}
+.background{
+
+  height: 100px;
+  background-position: left;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+#sloganContainer {
+  
+  float: right;
+}
+#mission{
+  color: brown;
+  font-size: 200%;
+  font-style: Chalkduster, fantasy;
+}
+#slogan {
+  
+  width:150px;
+  margin: 50px;
+
+}
+
+#logo{
+
+  width: 150px;
+  margin: 50px;
+}
+#joe{
+  position: relative; 
+  top: -2px;
+  width: 100px;
+  margin: 50px;
+  
+}
+
+
+#header {
+ margin: 150px, 10px, 0px, 10px;
+ height: 150px;
+}
+
+#Gear {
+  color: white;
+  font-size:        150%;
+  padding:          15px;
+  margin:           0px 10px 10px 10px;
+}
+
+#main {
+  
+  font-size:        250%;
+  padding:          25px;
+  margin:           0px 30x 10px 10px;
+  /*width:            80%;*/
+  color: #F0F8FF;
+
+}
+
+#sidebar {
+  color: yellow;
+  font-size:        250%;
+  padding:          15px;
+  margin:           0px 10px 10px 40px;
+  /*width:            20%;*/
+}
+
+
+}
+
+h1 {
+  font-size:        120%;
+  color:            #954b4b;
+}
+
+.slogan { color: #954b4b; }
+
+.beanheading {
+  text-align:       center;
+  line-height:      1.8em;
+}
+
+
+
+.tableContainer {
+  display: table;
+  border-spacing: 10px;
+}
+
+.tableRow {
+  display: table-row;
+}
+
+.tableCell {
+  vertical-align: top;
+  display: table-cell;
+
+
+}
+
+
+
+#ticketContainer {
+  position: fixed;
+  top: 350px;
+  left: -235px;
+  transition: 1s;
+}
+
+#ticketContainer:hover {
+  left: -20px;
+  transition:1s;
+}
+
+#ticketContainer a {
+  border: none;
+}
+#yankees {
+  margin: auto;
+  width: 27%;
+  padding: 10px;
+
+}
+
+#top10{
+  font-size: 100%;
+
+}
+.controls{
+  height: 230%;
+  width: 320%;
+}
+
