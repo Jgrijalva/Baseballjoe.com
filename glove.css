@@ -1,0 +1,20 @@
+html{
+	background:url(https://i1.wp.com/syndicatednews.net/wp-content/uploads/2014/02/jeter.jpeg) no-repeat center center fixed; 
+  background-size: 1400px 650px;
+  background-repeat: no-repeat;
+
+
+}
+#header{
+	margin: 10px, 10px, 0px, 10px;
+ height: 100px
+}
+#logo{
+width: 150px;
+margin: 50px;
+}
+#gloves{
+	color: brown;
+
+}
+
